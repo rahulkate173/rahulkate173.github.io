@@ -215,6 +215,34 @@
       url: 'https://github.com/rahulkate173/decorators',
       tags: ['Python', 'Tutorial'],
       stars: 1
+    },
+    {
+      name: 'Trashify',
+      desc: 'An intelligent waste classification system — automating trash sorting using deep learning models.',
+      url: 'https://github.com/rahulkate173/Trashify-',
+      tags: ['Python', 'Deep Learning', 'CV'],
+      stars: 0
+    },
+    {
+      name: 'FoodExpert',
+      desc: 'An AI-powered food analysis tool — identifying food items and providing nutritional insights.',
+      url: 'https://github.com/rahulkate173/FoodExpert',
+      tags: ['Python', 'AI', 'ML'],
+      stars: 0
+    },
+    {
+      name: 'Amazon Description Generator',
+      desc: 'An automated product description generator — creating compelling Amazon listings using AI.',
+      url: 'https://github.com/rahulkate173/description-',
+      tags: ['Python', 'AI', 'NLP'],
+      stars: 0
+    },
+    {
+      name: 'Course Mate',
+      desc: 'An AI-powered RAG-based course assistant — helping students navigate course content intelligently.',
+      url: 'https://github.com/rahulkate173/CourseMateAi_rag',
+      tags: ['Python', 'RAG', 'AI'],
+      stars: 0
     }
   ];
 
